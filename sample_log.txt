@@ -1,0 +1,7 @@
+User admin LOGIN SUCCESS
+User root FAILED LOGIN
+User guest FAILED LOGIN
+User admin LOGIN SUCCESS
+User test FAILED LOGIN
+User hacker FAILED LOGIN
+User admin LOGIN SUCCESS
